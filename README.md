@@ -1,6 +1,6 @@
 # README-Generator
 
-Goal:
+Goal: Create a README generator to quickly create a professional README for a new project
 
 Description:
 
